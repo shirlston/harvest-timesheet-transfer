@@ -1,13 +1,13 @@
 harvest-timesheet-transfer
 ==========================
 
-*THIS PROJECT IS EMPTY RIGHT NOW*
+**THIS PROJECT IS EMPTY RIGHT NOW**
 
 Transfer Harvest timesheet data from client's account to your own account
 
 Warnings:
 
-This project is untested and not ready to do anything useful.
+**This project is untested and not ready to do anything useful!**
 
 Although I want to share with the community, I'm a terrible Python coder. Someone who knows what they are doing should probably fork this and make something better out of it :)
 
