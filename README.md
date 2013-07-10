@@ -9,7 +9,7 @@ Warnings:
 
 **This project is untested and not ready to do anything useful!**
 
-Although I want to share with the community, I'm a terrible Python coder. Someone who knows what they are doing should probably fork this and make something better out of it :)
+Someone who knows what they are doing should probably fork this and make something better out of it :)
 
 
 Why:
